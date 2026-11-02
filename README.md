@@ -1,4 +1,4 @@
-# moneycounter 💸
+# Money Counter 💸
 
 A Python-based desktop application designed for efficiently counting cash by guiding the user through each denomination.
 
@@ -13,19 +13,20 @@ The `moneycounter` project is a user-friendly desktop application built with Pyt
 
 ## Table of Contents 📋
 
-- [Project Title & Badges](#moneycounter-%F0%9F%92%B5)
-- [Description](#description-%F0%9F%97%92%EF%B8%8F)
-- [Table of Contents](#table-of-contents-%F0%9F%97%92%EF%B8%8F)
-- [Features](#features-%E2%9C%A8)
-- [Tech Stack](#tech-stack-%F0%9F%AA%A7)
-- [Installation](#installation-%E2%9A%99%EF%B8%8F)
-- [Usage](#usage-%E2%9A%A1%EF%B8%8F)
-- [How to Use](#how-to-use-%E2%9A%A1%EF%B8%8F)
-- [Project Structure](#project-structure-%F0%9F%93%81)
-- [Contributing](#contributing-%F0%9F%94%8D)
-- [License](#license-%F0%9F%93%9C)
-- [Important Links](#important-links-%F2%9C%8B)
-- [Footer](#footer-%F0%9F%97%91%EF%B8%8F)
+- [Money Counter 💸](#money-counter-)
+  - [Badges 🛡️](#badges-️)
+  - [Description 📝](#description-)
+  - [Table of Contents 📋](#table-of-contents-)
+  - [Features ✨](#features-)
+  - [Tech Stack 💻](#tech-stack-)
+  - [Installation 🛠️](#installation-️)
+  - [Usage 🚀](#usage-)
+  - [How to Use 💡](#how-to-use-)
+  - [Project Structure 📁](#project-structure-)
+  - [Contributing 🤝](#contributing-)
+  - [License 📄](#license-)
+  - [Important Links 🔗](#important-links-)
+  - [Footer 📝](#footer-)
 
 ## Features ✨
 
@@ -122,7 +123,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 This project is maintained by [mrjohndowe](https://github.com/mrjohndowe).
 
---- 
+---
 
 **Like this project?** Star it ⭐ | Fork it 🍴 | Report Issues 🐞
 
